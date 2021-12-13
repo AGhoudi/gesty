@@ -36,4 +36,4 @@ php bin/console doctrine:schema:update --force
 
 Publiez les assets dans le répertoire web :
 
-php bin/console assets:install web
+php bin/console assets:install web![gesty](https://user-images.githubusercontent.com/27373255/145893788-f84cb1cf-492d-40cc-a805-b43bd404b909.png)
