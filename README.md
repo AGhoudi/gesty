@@ -1,6 +1,7 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/145893788-f84cb1cf-492d-40cc-a805-b43bd404b909.png" alt="gesty"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer un ecommerce de vêtements, en utilisant le framework react.</p>
+<p align=center>
+Création d'un gestionnaire de liste de tâches avec Symfony.</p>
 
 <h2 align=center>📝 Description :</h2>
 
@@ -22,4 +23,3 @@ J'ai crée un jeu de memory game en HTML, CSS, JAVASCRIPT et React.</br>
   <a title="https://stark-fjord-91177.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://stark-fjord-91177.herokuapp.com/">https://stark-fjord-91177.herokuapp.com/</a></p>
 
 
-Création d'un gestionnaire de liste de tâches avec Symfony
