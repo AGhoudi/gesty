@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/143656431-35a5787d-4658-496e-adb1-8810df23c021.png" alt="crwn-clothing"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/145893788-f84cb1cf-492d-40cc-a805-b43bd404b909.png" alt="gesty"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un ecommerce de vêtements, en utilisant le framework react.</p>
 
@@ -55,4 +55,4 @@ php bin/console doctrine:schema:update --force
 
 
 
-php bin/console assets:install web![gesty](https://user-images.githubusercontent.com/27373255/145893788-f84cb1cf-492d-40cc-a805-b43bd404b909.png)
+php bin/console assets:install web![gesty]()
