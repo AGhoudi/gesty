@@ -1,6 +1,5 @@
 
 
-OC - Projet 5
 Création d'un gestionnaire de liste de tâches avec Symfony
 
 Installation
