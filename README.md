@@ -5,8 +5,8 @@ Création d'un gestionnaire de liste de tâches avec Symfony.</p>
 
 <h2 align=center>📝 Description :</h2>
 
-<p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
-J'ai crée un jeu de memory game en HTML, CSS, JAVASCRIPT et React.</br>
+<p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en Symfony:</br>
+J'ai crée un gestionnaire de liste de tâches avec Symfony.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
