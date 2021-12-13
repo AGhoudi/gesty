@@ -31,8 +31,6 @@ php bin/console doctrine:schema:update --dump-sql
 
 php bin/console doctrine:schema:update --force
 
-4. Publiez les assets
 
-Publiez les assets dans le répertoire web :
 
 php bin/console assets:install web![gesty](https://user-images.githubusercontent.com/27373255/145893788-f84cb1cf-492d-40cc-a805-b43bd404b909.png)
