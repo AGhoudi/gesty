@@ -10,7 +10,7 @@ J'ai crée un gestionnaire de liste de tâches avec Symfony.</br>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/143657478-faef4154-0137-4b64-80fd-f909c178a2a8.png" alt="visuel de crw-clothing"</div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/146087700-46372eec-638d-492e-ad9c-5d90fa9a6e97.png" alt="gesty"</div>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
@@ -23,4 +23,4 @@ J'ai crée un gestionnaire de liste de tâches avec Symfony.</br>
   <a title="https://stark-fjord-91177.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://stark-fjord-91177.herokuapp.com/">https://stark-fjord-91177.herokuapp.com/</a></p>
 
 
-![gestyp](https://user-images.githubusercontent.com/27373255/146087700-46372eec-638d-492e-ad9c-5d90fa9a6e97.png)
+![gestyp]()
