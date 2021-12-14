@@ -21,6 +21,3 @@ J'ai crée un gestionnaire de liste de tâches avec Symfony.</br>
 <p align=center>Voici un lien pour voir le site:
 
   <a title="https://stark-fjord-91177.herokuapp.com/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://stark-fjord-91177.herokuapp.com/">https://stark-fjord-91177.herokuapp.com/</a></p>
-
-
-![gestyp]()
