@@ -14,7 +14,7 @@ J'ai crée un gestionnaire de liste de tâches avec Symfony.</br>
 
 <h2 align=center>💻 Stack utilisé :</h2>
 
-<p align=center>HTML - CSS - Javascript - React - SASS - Firebase - Heroku</p>
+<p align=center>HTML - CSS - Javascript - SYMFONY - TWIG - DOCTRINE</p>
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
